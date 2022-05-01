@@ -1,7 +1,7 @@
 Hi 👋 My name is Digamber Rawat
 ===============================
 
-FullStack Engineer
+Full-Stack Engineer
 ---------------
 
 * 🌍  I'm based in Delhi
