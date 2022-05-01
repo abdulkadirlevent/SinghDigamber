@@ -1,7 +1,7 @@
 Hi 👋 My name is Digamber Rawat
 ===============================
 
-React Developer
+FullStack Engineer
 ---------------
 
 * 🌍  I'm based in Delhi
