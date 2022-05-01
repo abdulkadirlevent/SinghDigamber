@@ -1,7 +1,7 @@
 Hi 👋 My name is Digamber Rawat
 ===============================
 
-Full-Stack Engineer
+Full-Stack Engineer | Technical Author @positronx.io
 ---------------
 
 * 🌍  I'm based in Delhi
